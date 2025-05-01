@@ -1,0 +1,4 @@
+github.com/crettien/logger v0.0.0-20250501092940-265f2c61075a h1:QUug0n52N1AL4L2qIbeDlnVNBpix7uHoZVDvyDya0Xs=
+github.com/crettien/logger v0.0.0-20250501092940-265f2c61075a/go.mod h1:KiPT7J484VwP8FL/gkBKkc6JTay0hJGNAqhESrjngZI=
+github.com/gorilla/websocket v1.5.3 h1:saDtZ6Pbx/0u+bgYQ3q96pZgCzfhKXGPqt7kZ72aNNg=
+github.com/gorilla/websocket v1.5.3/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
